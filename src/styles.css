@@ -1,0 +1,22 @@
+html, body{
+    background-color: rgb(105, 65, 65);
+}
+
+nav{
+	margin-top: 18px;
+}
+
+.navbar-brand{
+	font-family: 'Permanent Marker', cursive;
+	font-size: 40px !important;
+	padding-left: 50px;
+}
+
+.nav-link {
+	font-family: 'Tomorrow', sans-serif; 
+	font-size: 23px;
+	color: #000;
+	margin: 0 15px;
+	padding-right: 40px;
+    text-transform: uppercase;
+}
